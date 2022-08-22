@@ -10,3 +10,7 @@ We added a couple of extra features for the project....
 The default login and password is 
 Login : admin 
 Password : admin 
+
+i do apologize for the unhandled exceptions.. in 1st year we focused more on the functional C# without exception handling. 
+This was a fairly simple project but challenging in ways with regards to the fact that this was our first hands-on group project for C#
+Hope you enjoy... 
