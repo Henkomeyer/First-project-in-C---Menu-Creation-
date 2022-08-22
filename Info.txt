@@ -1,0 +1,12 @@
+This was a group project that we created in our 1st year of varsity 
+
+We had the instructions of creating a console based menu for a local take-away restruant with the following being expected from the Project : 
+- Login- User local repo 
+- User needs to see his total and what he ordered- 
+- User needs to have the abillity to clear his order and start a new order- 
+
+We added a couple of extra features for the project.... 
+
+The default login and password is 
+Login : admin 
+Password : admin 
